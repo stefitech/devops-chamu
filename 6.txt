@@ -1,0 +1,7 @@
+Branching :
+
+Checkout - switching between branches
+
+git branch branch name - create branch 
+
+git branch -D branch name - delete branch  
